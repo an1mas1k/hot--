@@ -1,0 +1,13 @@
+{
+  "name": "hot-social-network",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hot social network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
